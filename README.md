@@ -1,7 +1,4 @@
 # Wachiye Siranjofu - Freelance Web Developer
-<img src="./me.png" alt="Profile Image" width="300">
-
-## About
 Hi, I'm Wachiye Siranjofu, a passionate and driven freelance web developer based in Nairobi, Kenya. I specialize in creating innovative solutions for businesses and individuals. With a strong background in multiple programming languages, I strive to deliver high-quality results that meet the unique needs of my clients.
 
 ## Programming Skills
